@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ahmed! <br/><a href="https://github.com/ahmedanalyst">Data Analyst</a>, <a href="https://www.linkedin.com/in/ahmedanalyst/">Business Intelligence Analyst</a></h1>
+<h1>Hi, I'm Ahmed! <br/><a href="https://github.com/ahmedanalyst">Data Analyst</a> | <a href="https://www.linkedin.com/in/ahmedanalyst/">Business Intelligence Analyst</a></h1>
 
 <h2>👨‍💻 Data Analysis and Business Intelligence Projects:</h2>
 
